@@ -86,6 +86,3 @@ If you wish to support us a different way, please join our [Discord](https://dis
 ## License
 
 yuzu is licensed under the GPLv3 (or any later version). Refer to the [LICENSE.txt](https://github.com/yuzu-mirror/yuzu/blob/master/LICENSE.txt) file.
-
-
-
